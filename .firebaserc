@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ang-app-7a7a8"
+  },
+  "targets": {
+    "ang-app-7a7a8": {
+      "hosting": {
+        "firebase-angular": [
+          "ang-app-7a7a8"
+        ]
+      }
+    }
+  }
+}
